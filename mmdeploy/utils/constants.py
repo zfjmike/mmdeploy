@@ -30,6 +30,7 @@ class Task(AdvancedEnum):
     VIDEO_RECOGNITION = 'VideoRecognition'
     ModelCompress = 'ModelCompress'
     MONO_DETECTION = 'MonoDetection'
+    UNCONDITIONAL_GAN = 'UnconditionalGAN'
 
 
 class Codebase(AdvancedEnum):
